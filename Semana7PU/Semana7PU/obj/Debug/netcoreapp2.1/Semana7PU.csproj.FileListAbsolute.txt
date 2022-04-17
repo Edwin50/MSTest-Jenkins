@@ -1,0 +1,35 @@
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.deps.json
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.json
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.dev.json
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.dll
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.pdb
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.csproj.CoreCompileInputs.cache
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfoInputs.cache
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfo.cs
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.dll
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.pdb
+C:\Users\Edwin Rivera\Desktop\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.deps.json
+C:\Users\Edwin Rivera\Desktop\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.json
+C:\Users\Edwin Rivera\Desktop\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.dev.json
+C:\Users\Edwin Rivera\Desktop\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.dll
+C:\Users\Edwin Rivera\Desktop\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.pdb
+C:\Users\Edwin Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.csprojAssemblyReference.cache
+C:\Users\Edwin Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfoInputs.cache
+C:\Users\Edwin Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfo.cs
+C:\Users\Edwin Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.csproj.CoreCompileInputs.cache
+C:\Users\Edwin Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.dll
+C:\Users\Edwin Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.pdb
+C:\Users\Edwin Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.genruntimeconfig.cache
+C:\Users\Edwin_Rivera\Desktop\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.deps.json
+C:\Users\Edwin_Rivera\Desktop\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.json
+C:\Users\Edwin_Rivera\Desktop\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.dev.json
+C:\Users\Edwin_Rivera\Desktop\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.dll
+C:\Users\Edwin_Rivera\Desktop\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.pdb
+C:\Users\Edwin_Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.csproj.AssemblyReference.cache
+C:\Users\Edwin_Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin_Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfoInputs.cache
+C:\Users\Edwin_Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfo.cs
+C:\Users\Edwin_Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.csproj.CoreCompileInputs.cache
+C:\Users\Edwin_Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.dll
+C:\Users\Edwin_Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.pdb
+C:\Users\Edwin_Rivera\Desktop\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.genruntimeconfig.cache
