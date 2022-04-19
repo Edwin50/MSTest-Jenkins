@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edwin_Rivera\\Desktop\\Semana7PU\\Semana7PU\\Semana7PU.csproj": {}
+    "C:\\Users\\Edwin_Rivera\\Documents\\GitHub\\MSTest-Jenkins\\Semana7PU\\Semana7PU\\Semana7PU.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edwin_Rivera\\Desktop\\Semana7PU\\Semana7PU\\Semana7PU.csproj": {
+    "C:\\Users\\Edwin_Rivera\\Documents\\GitHub\\MSTest-Jenkins\\Semana7PU\\Semana7PU\\Semana7PU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edwin_Rivera\\Desktop\\Semana7PU\\Semana7PU\\Semana7PU.csproj",
+        "projectUniqueName": "C:\\Users\\Edwin_Rivera\\Documents\\GitHub\\MSTest-Jenkins\\Semana7PU\\Semana7PU\\Semana7PU.csproj",
         "projectName": "Semana7PU",
-        "projectPath": "C:\\Users\\Edwin_Rivera\\Desktop\\Semana7PU\\Semana7PU\\Semana7PU.csproj",
+        "projectPath": "C:\\Users\\Edwin_Rivera\\Documents\\GitHub\\MSTest-Jenkins\\Semana7PU\\Semana7PU\\Semana7PU.csproj",
         "packagesPath": "C:\\Users\\Edwin_Rivera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edwin_Rivera\\Desktop\\Semana7PU\\Semana7PU\\obj\\",
+        "outputPath": "C:\\Users\\Edwin_Rivera\\Documents\\GitHub\\MSTest-Jenkins\\Semana7PU\\Semana7PU\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Edwin_Rivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
