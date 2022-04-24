@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9DADhcHv0nkiSqSSE0ASovpBVgF4y11LhjgP9B5nXXy7Gko/CUeSvehs0jaM8dolSWmnckGLIo9znMXZnjru7w==",
+  "dgSpecHash": "7JIkCUtEMbu9L1p+BZjXkGnhy87SIcv0iRJBRpjj/MHxclYq6D4vVvhzOlQjJDSaQ/G0sZ+J3XTAlxdfvxGMFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AzureLicenciatura\\Documents\\GitHub\\MSTest-Jenkins\\Semana7PU\\Semana7PU\\Semana7Test\\Semana7Test.csproj",
+  "projectFilePath": "C:\\Users\\AzureLicenciatura\\Documents\\GitHub\\MSTest-Jenkins\\Semana7PU\\Semana7Test\\Semana7Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AzureLicenciatura\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\AzureLicenciatura\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

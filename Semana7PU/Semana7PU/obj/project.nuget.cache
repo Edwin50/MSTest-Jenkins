@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ZHCnemrxqysO15zoOhoHTzc9J8i1HivyZDfLAPhWhi2e5aefGoLcVFz28xHatBOsJ5yNVJGtNP6UqmCKonM8A==",
+  "dgSpecHash": "YsV0A1kTMq8ODao12dLph8JNJLhYrpRem1hofbfTonUdU03tKgglz94QDzgYChlbaUrI6Xy3dyHbLOL97LMV4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AzureLicenciatura\\Documents\\GitHub\\MSTest-Jenkins\\Semana7PU\\Semana7PU\\Semana7PU\\Semana7PU.csproj",
+  "projectFilePath": "C:\\Users\\AzureLicenciatura\\Documents\\GitHub\\MSTest-Jenkins\\Semana7PU\\Semana7PU\\Semana7PU.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AzureLicenciatura\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\AzureLicenciatura\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
