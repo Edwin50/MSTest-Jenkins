@@ -33,3 +33,16 @@ C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\S
 C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.dll
 C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.pdb
 C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.genruntimeconfig.cache
+C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.deps.json
+C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.json
+C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.dev.json
+C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.dll
+C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.pdb
+C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.csproj.AssemblyReference.cache
+C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfoInputs.cache
+C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfo.cs
+C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.csproj.CoreCompileInputs.cache
+C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.dll
+C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.pdb
+C:\Users\AzureLicenciatura\Documents\GitHub\MSTest-Jenkins\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.genruntimeconfig.cache

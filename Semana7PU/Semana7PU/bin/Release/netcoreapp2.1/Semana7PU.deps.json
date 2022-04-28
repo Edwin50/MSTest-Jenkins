@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Semana7PU/1.0.0": {
+        "runtime": {
+          "Semana7PU.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Semana7PU/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
