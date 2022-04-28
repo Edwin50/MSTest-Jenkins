@@ -85,7 +85,7 @@ namespace Semana7Test
         /// <param name="b"></param>
         /// <param name="esperado"></param>
         [DataRow(-5, 4, -9)]
-        [DataRow(4, 51, 47)]
+        [DataRow(4, 51, -47)] // por prueba error se puso en positivo
         [DataRow(6, -1, 7)]
         [TestMethod]
         public void Resta_retonaValor(int a, int b, int esperado)
@@ -106,8 +106,8 @@ namespace Semana7Test
         /// <param name="b"></param>
         /// <param name="esperado"></param>
         [DataRow(105, 0, 0)]
-        [DataRow(4, 8, -32)]
-        [DataRow(-3, -5, -15)]
+        [DataRow(4, 8, 32)] // error se coloco en negativo
+        [DataRow(-3, -5, 15)] // error de multiplicacion de negativos da positivo
         [TestMethod]
         public void Multiplica_retonaValor(int a, int b, int esperado)
         {
