@@ -85,7 +85,7 @@ namespace Semana7Test
         /// <param name="b"></param>
         /// <param name="esperado"></param>
         [DataRow(-5, 4, -9)]
-        [DataRow(4, 51, -47)] // por prueba error se puso en positivo
+        [DataRow(4, 51, 47)] // por prueba error se puso en positivo
         [DataRow(6, -1, 7)]
         [TestMethod]
         public void Resta_retonaValor(int a, int b, int esperado)
